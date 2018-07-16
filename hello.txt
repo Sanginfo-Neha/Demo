@@ -1,3 +1,9 @@
+<<<<<<< .mine
 not applicable 
 lskkdf
 kdke
+=======
+not applicable
+
+dsgfdslg jgmdfklvmlkdf deslksdkflvm dsvmdslkvm
+>>>>>>> .theirs
